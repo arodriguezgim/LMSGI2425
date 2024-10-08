@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Formulario de registro</h1>
-    <form>
+    <form action="" method="">
         <fieldset>
             <legend>Registro de usuario</legend>
             <p>
@@ -38,6 +38,16 @@
                 <label for="comentario">Comentario: </label> <br>
                 <textarea name="coment" id="comentario" rows="8" cols="40" placeholder="Escribe aquí un comentario"></textarea>
             </p>
+        </fieldset>
+        <fieldset>
+            <legend>Enviar resultado</legend>
+            <!--
+            <input type="submit" value="Enviar formulario">
+            <input type="reset" value="Resetear el Formulario">
+            -->
+            <button type="submit">Enviar</button>
+            <button type="reset">Resereat formulario</button>
+            <input type="button" value="Hacer cualquier cosa" onclick="alert('Hola a DAM 1');">
         </fieldset>
     </form>
 </body>
