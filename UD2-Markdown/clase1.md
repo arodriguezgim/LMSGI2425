@@ -6,3 +6,6 @@
 
 # Imágenes
 ![Esto es un paisaje|100](./images/paisaje.jpg)
+
+<img src="images/paisaje.jpg" width="200px">
+
