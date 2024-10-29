@@ -62,7 +62,7 @@ h1 {
 }
 ```
 
-### 4. **Modelo de Caja (Box Model)**
+### 4. [**Modelo de Caja (Box Model)**](./04-ModeloDeCajas/readme.md)
 
 - **Concepto del modelo de caja**: Margen, borde, relleno, contenido.
 - **Propiedades clave**:
@@ -82,7 +82,7 @@ h1 {
 }
 ```
 
-### 5. **Fondos y Bordes**
+### 5. [**Fondos y Bordes**](./05-FondosYBordes/readme.md)
 
 - **Fondos**:
   - `background-color`
@@ -103,7 +103,7 @@ h1 {
 }
 ```
 
-### 6. **Posicionamiento y Display**
+### 6. [**Posicionamiento y Display**](./06-PosicionamientoYDisplay/readme.md)
 
 - **Tipos de display**: `block`, `inline`, `inline-block`, `none`.
 - **Propiedades de posicionamiento**:
