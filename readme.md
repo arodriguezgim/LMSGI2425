@@ -1,4 +1,5 @@
-# LENGUAJES DE MARCAS y SGI - 1º D.A.M - I.E.S Segundo de Chomón - Curso 24 25
+# LENGUAJES DE MARCAS y SGI - 1º D.A.M 
+## I.E.S Segundo de Chomón - Curso 24 25
 
 ## Evaluación 1
 
