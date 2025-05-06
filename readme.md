@@ -16,7 +16,7 @@
 ## Evaluación 3
 
 - UD7 - Lenguajes de Script: Javascript
-- UD8 - Introducción a Frameworks avanzados: VueJS / Astro
+- [UD8 - Introducción a Frameworks avanzados: VueJS / Astro](./UD8-VUE/readme.md)
 - ~~- UD9 - Sistemas de Gestión Empresarial *~~
 
 * (En 2º de DAM existe el módulo dedicado exclusivamente a SGE, por lo que no lo veremos en este curso)
