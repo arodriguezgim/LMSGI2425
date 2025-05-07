@@ -1,6 +1,4 @@
 
----
-
 ### 📂 `parte2.md` – Fundamentos del Template (1 hora)
 
 ````markdown
