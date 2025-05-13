@@ -32,8 +32,8 @@
     description: "Naranja de zumo"
   }
 
-  const hacerClick = () => {
-    console.log("Me has hecho click!!");
+  const hacerClick = ( mensaje ) => {
+    console.log( mensaje );
   }
 </script>
 
@@ -75,8 +75,9 @@
     </ul>
   </template>
 
-  <button v-on:click="hacerClick()">Hazme click!!!</button>
-  <button @click="hacerClick()">Hazme click 2!!!</button>
+  <button @click.left="hacerClick('Click en Boton 1')">Boton Izquierdo</button>
+  <button @click.middle="hacerClick('Click en Boton 2')">Boton Centro</button>
+  <button @click.right.prevent="hacerClick('Click en Boton 2')">Boton Derecho</button>
 
 
 
